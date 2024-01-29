@@ -1,0 +1,10 @@
+Vim Motions
+
+[s - go back to misspelled word
+]s - go forward to misspelled word
+z= - change misspelled word
+    1z= - change word to what it thinks it should be
+qq - record macro
+$ - go to end of line
+^ - go to beginning of line
+
